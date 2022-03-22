@@ -1,2 +1,2 @@
 # Exercises
-Exercies from calculus and other
+Exercies from calculus
